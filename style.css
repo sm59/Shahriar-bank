@@ -4,7 +4,7 @@ body{
 .submit-area{
     margin-top: 40px;
     border-radius: 10px;
-    box-shadow: 10px 10px 15px 15px rgb(155, 31, 114);
+    box-shadow: 10px 10px 10px 10px rgb(155, 31, 114);
     padding: 50px;
 }
 #transaction-area{
